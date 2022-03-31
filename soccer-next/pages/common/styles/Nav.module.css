@@ -1,10 +1,10 @@
 .nav {
     display: flex;
     justify-content: space-between;
-    background-color: yellow;
+    background-color: rgb(31, 196, 133);
 }
 .li {
     display: inline;
-    margin-left: 40px;
+    margin-left: 100px;
 }
   
